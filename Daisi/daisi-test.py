@@ -1,5 +1,5 @@
 def hello(name = "Daisi"):
-    print(abc["Daisi"])
+    a = b + c
     return 'Hello Test from ' + str(name)
 
 if __name__ == "__main__":
