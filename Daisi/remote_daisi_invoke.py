@@ -4,7 +4,7 @@ import logging
 
 #No config needed, code is directly deployed from the GitHub repo
 
-logging.getLogger().setLevel(logging.ERROR)
+# logging.getLogger().setLevel(logging.ERROR)
 
 t = time.time()
 
